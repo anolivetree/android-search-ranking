@@ -1,7 +1,8 @@
-android-search-ranking
-======================
+WHAT'S THIS?
+================
 
-Prints the ranking of the package for the specified keywords.
+This tool help you to search-engine-optimize an app on Google Play.
+It prints the ranking of the package for the specified keywords.
 
 HOW TO USE
 ============
